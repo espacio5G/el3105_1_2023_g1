@@ -4,7 +4,7 @@ Maximiliano Morales maximiliano.amh@gmail.com,
 Tamara González tamara.isidora.g@gmail.com, 
 Marcelo García gomarceloe@gmail.com.
 
-Este es un proyecto que utiliza una placa modular WisBlock RAK, sensores y otros dispositivos para enviar datos a través de las redes NB-IoT.
+Este es un proyecto que utiliza una placa modular WisBlock RAK, sensores y otros dispositivos para enviar datos a través de las redes NB-IoT con el fin de detectar incendios forestales.
 Los dispositivos utilizados son:
 - RAK19001 WisBlock Dual IO Base Board
 - RAK5860 WisBlock NB-IoT Interface Module
